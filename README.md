@@ -19,3 +19,6 @@ if (data.length > 0) {
 ```
 
 used react-dropzone ver 4.0.1
+![image](https://user-images.githubusercontent.com/26537104/72957332-887eb880-3de6-11ea-90f7-56b65905714b.png)
+
+add gridexample
